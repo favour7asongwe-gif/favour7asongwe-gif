@@ -1,8 +1,9 @@
 # About Me
 
+✨ Perfectionist | Overachiever
+💻 Aspiring Developer
 🎓 First-Year Computer Science Student  
-🏫 Catholic University of Cameroon  
-💻 Aspiring Developer | Perfectionist | Overachiever  
+🏫 Studying at The Catholic University of Cameroon, Bamenda   
 
 ---
 
